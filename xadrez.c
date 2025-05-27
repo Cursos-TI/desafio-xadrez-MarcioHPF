@@ -36,7 +36,7 @@ int main() {
             printf("Esquerda\n");
             k++; // Incrementa a variável de controle
         } while (k < casasRainha);
-    }
+    
     printf("\n");
 
     printf(" Simulação Concluída! \n");

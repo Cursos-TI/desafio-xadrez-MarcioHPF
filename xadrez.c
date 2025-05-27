@@ -39,6 +39,6 @@ int main() {
     
     printf("\n");
 
-    printf(" Simulação Concluída! \n");
+    printf("- - - Simulação Concluída! - - - \n");
     return 0;
 }
